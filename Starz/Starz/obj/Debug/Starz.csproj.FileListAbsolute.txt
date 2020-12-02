@@ -1,0 +1,9 @@
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\bin\Debug\Starz.exe.config
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\bin\Debug\Starz.exe
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\bin\Debug\Starz.pdb
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\obj\Debug\Starz.csprojResolveAssemblyReference.cache
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\obj\Debug\Starz.Form1.resources
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\obj\Debug\Starz.Properties.Resources.resources
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\obj\Debug\Starz.csproj.GenerateResource.Cache
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\obj\Debug\Starz.exe
+c:\users\nicol\documents\visual studio 2015\Projects\Starz\Starz\obj\Debug\Starz.pdb
